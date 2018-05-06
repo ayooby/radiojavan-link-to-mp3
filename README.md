@@ -7,7 +7,7 @@ Save [Radio-Javan's](https://www.radiojavan.com) musics links into file using Ru
 # run from compiled file:
 ```
 $  git clone git@github.com:ayooby/radiojavan-link-to-mp3.git
-./bin/rudiojavan-downloader saved_linked_file.txt 
+$  ./bin/rudiojavan-downloader saved_linked_file.txt 
 ```
 
 # Installation
