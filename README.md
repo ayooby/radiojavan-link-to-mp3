@@ -19,7 +19,7 @@ $  cd radiojavan-link-to-mp3
 ```
 - execute it
 
-You might be instersted in [rudiojavan-playlist-link-scraper](https://github.com/ayooby/rudiojavan-playlist-link-scraper/edit/master/README.md)
+You might be instersted in [rudiojavan-playlist-link-scraper](https://github.com/ayooby/rudiojavan-playlist-link-scraper)
 
 ```
 $  cd radiojavan-link-to-mp3
