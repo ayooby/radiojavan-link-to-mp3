@@ -3,12 +3,16 @@
 
 Save [Radio-Javan's](https://www.radiojavan.com) musics links into file using Rust lang.
 
-# Installation
 
+# run from compiled file:
+```
+$  git clone git@github.com:ayooby/radiojavan-link-to-mp3.git
+./bin/rudiojavan-downloader saved_linked_file.txt ```
+
+# Installation
 - install it [[rust-lang.org](https://www.rust-lang.org/en-US/install.html)]
 - clone it
 ```
-$  git clone git@github.com:ayooby/radiojavan-link-to-mp3.git 
 $  cd radiojavan-link-to-mp3
 ```
 - execute it
