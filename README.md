@@ -14,10 +14,13 @@ $  ./bin/rudiojavan-downloader saved_linked_file.txt
 - install it [[rust-lang.org](https://www.rust-lang.org/en-US/install.html)]
 - clone it
 ```
+$  git clone git@github.com:ayooby/radiojavan-link-to-mp3.git
 $  cd radiojavan-link-to-mp3
 ```
 - execute it
+
 You might be instersted in [rudiojavan-playlist-link-scraper](https://github.com/ayooby/rudiojavan-playlist-link-scraper/edit/master/README.md)
+
 ```
 $  cd radiojavan-link-to-mp3
 $  cargo run saved_linked_file.txt
